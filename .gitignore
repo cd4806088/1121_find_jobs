@@ -1,0 +1,11 @@
+*/cmake-build-debug/*
+.idea/*
+*.make
+*.cmake
+*.bin
+*.o
+*.includecache
+*.internal
+*.cxx
+*.txt
+*.c
